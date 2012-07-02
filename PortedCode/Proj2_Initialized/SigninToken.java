@@ -20,9 +20,9 @@ package CodePortingCSharp2Java;
      * </p>
      */
   public String text= "new text here";
-  public int count= 100;   
   public static String Token = "";   
   private int x = 200;
+  public int count= 100;   
            		
 }
 
