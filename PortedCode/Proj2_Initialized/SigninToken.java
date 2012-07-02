@@ -19,8 +19,8 @@ package CodePortingCSharp2Java;
      * <p>
      * </p>
      */
-    public static String Token = "";   
-    public integer count= 100;
-    public String Test2="here";		
+ public Integer count= 100;       
+ public static String Token = "";   
+           		
 }
 
