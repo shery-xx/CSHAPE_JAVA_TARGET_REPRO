@@ -22,7 +22,6 @@ package CodePortingCSharp2Java;
   public String text= "new text here";
   public static String Token = "";   
   private int x = 200;
-  public int count= 100;   
            		
 }
 
